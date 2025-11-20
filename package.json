@@ -1,0 +1,25 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "A clean, responsive Todo List app with full CRUD functionality. Features progress tracking, local storage persistence, and a modern UI. Built with vanilla HTML, CSS, and JavaScript.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharvashirodkar/simple-todo-list.git"
+  },
+  "keywords": [
+    "todo-list",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "atharvashirodkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharvashirodkar/simple-todo-list/issues"
+  },
+  "homepage": "https://github.com/atharvashirodkar/simple-todo-list#readme"
+}
